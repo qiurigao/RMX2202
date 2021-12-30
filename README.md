@@ -31,7 +31,9 @@ Android 11 or Android 11 https://www.mediafire.com/folder/hepc8ivdr1wro/TWRP
 
 2.ROLLBACK file
 
-CN ​https://drive.google.com/file/d/1TFODtSjRdY2EIVKbgcLgY6AiPOXhqu6I/view?usp=sharing​​​
+CN A24 ​https://drive.google.com/file/d/1TFODtSjRdY2EIVKbgcLgY6AiPOXhqu6I/view?usp=sharing​​​
+
+CN A08 ​http://www.mediafire.com/file/j3v0moqzb153nrs/GT_A08_OTA_RMX2202.zip​​​
 
 IN ​https://download.c.realme.com/flash/Early_Access/IN/RMX2202_ROLLBACK_Android11_IN.zip​​​
 
