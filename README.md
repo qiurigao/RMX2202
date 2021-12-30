@@ -23,8 +23,6 @@
 
 > adb shell "twrp install /tmp/magisk.zip"
 
-
-
 # Download
 
 1.TWRP
@@ -39,8 +37,9 @@ IN ​https://download.c.realme.com/flash/Early_Access/IN/RMX2202_ROLLBACK_Andro
 
 EU ​https://download.c.realme.com/flash/DP1_Android_12/EUEX/RMX2202_ROLL%20BACK_Android11_EUEX_0609.zip​​​
 
-all CN ：https://github.com/qiurigao/RMX2202/blob/main/cn.md
-
-3. Magisk 
+3.Magisk 
 https://github.com/vvb2060/magisk_files/raw/alpha/app-release.apk
 
+# China Region all ver. Dont Flash to TWRP!!!
+
+all CN https://github.com/qiurigao/RMX2202/blob/main/cn.md
