@@ -19,9 +19,9 @@
 
 > fastboot boot twrp.img
 
-> adb push Magisk_alpha.apk /tmp/magisk.zip
+> adb push Magisk_alpha.apk /data/magisk.zip
 
-> adb shell "twrp install /tmp/magisk.zip"
+> adb shell "twrp install /data/magisk.zip"
 
 # Download
 
