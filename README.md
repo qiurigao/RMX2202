@@ -25,9 +25,9 @@
 
 # Download
 
-1.TWRP
+1.TWRP (Update)
 
-Android 11 or Android 11 https://www.mediafire.com/folder/hepc8ivdr1wro/TWRP
+Android 11 or Android 12 https://www.mediafire.com/file/s5tm666gqgl6ylu/twrp-3.6.0-V2.img/file
 
 2.ROLLBACK file
 
