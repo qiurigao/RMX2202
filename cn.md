@@ -1,5 +1,8 @@
 # Realme GT UI 3.0
 
+C15
+https://gauss-compotacostauto-cn.allawnfs.com/remove-682bb8e9b7dabacffa8a14867af25c45/component-ota/22/03/12/67090429065441e2b87db94e602ccf18.zip
+
 C14：
 https://gauss-compotacostauto-cn.allawnfs.com/remove-e1daf7d953e954e1b56e252c6724225b/component-ota/22/03/04/10d500a7227144c29ec7f0380acf07d6.zip
 
