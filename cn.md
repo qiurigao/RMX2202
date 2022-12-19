@@ -5,6 +5,9 @@ https://gauss-componentotacostmanual-cn.allawnfs.com/remove-eb53cddcef238579e4b2
 note: https://gauss-compotacostauto-cn.allawnfs.com/remove-eb53cddcef238579e4b21e3adecaa912/component-ota/22/11/21/e46113d27b3d42feb1b6484ef10dd37d.html
 
 # Realme GT UI 3.0
+C.27
+https://gauss-componentotacostmanual-cn.allawnfs.com/remove-2e025dfb41b9b436f6f0b1c520e74e4f/component-ota/22/12/08/af9ca28e36954c10baa55a13cab33f52.zip
+
 C.25
 https://gauss-compotacostauto-cn.allawnfs.com/remove-ecac48812c048c2179d5dc3f35661ddf/component-ota/22/10/28/ce49dba7f98e410a8b91a9576f8e3cb8.zip
 
