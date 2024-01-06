@@ -1,4 +1,7 @@
 # Realme GT UI 4.0
+F.19
+https://gauss-componentotacostmanual-cn.allawnfs.com/remove-15d63fc134e66095dd5bf4c1d8e21715/component-ota/23/12/22/3a9e1d68c21d4ae9bdb3992eb5a473d8.zip
+
 F.15
 https://gauss-componentotacostmanual-cn.allawnfs.com/remove-a04ef5249d155453512371b39092e550/component-ota/23/09/02/ecb6bedd9186466ab178a7e7ad7b286d.zip
 
