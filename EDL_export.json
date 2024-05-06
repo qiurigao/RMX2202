@@ -1,0 +1,230 @@
+{
+	"Data": {
+		"response": {
+			"message": "0000",
+			"status": "0",
+			"modellist": [
+				{
+					"link": "https://rms01.realme.net/sw/RMX2202export_11_13.1.0.1410EX01_2023080312230000.zip",
+					"name": "RMX2202export_11_13.1.0.1410EX01_2023080312230000.zip",
+					"marketmodel": "realme GT",
+					"updatedesc": "",
+					"updatedesc_english": "",
+					"googlepatchdate": "2023/8/4 16:00:00",
+					"operatorarea": "0",
+					"coloros": "",
+					"android": "",
+					"isenterprise": "0"
+				},
+				{
+					"link": "https://rms01.realme.net/sw/RMX2202export_11_13.1.0.1413EX01_2023092122220117.zip",
+					"name": "RMX2202export_11_13.1.0.1413EX01_2023092122220117.zip",
+					"marketmodel": "realme GT",
+					"updatedesc": "",
+					"updatedesc_english": "",
+					"googlepatchdate": "2023/8/4 16:00:00",
+					"operatorarea": "0",
+					"coloros": "",
+					"android": "",
+					"isenterprise": "0"
+				},
+				{
+					"link": "https://rms01.realme.net/sw/RMX2202export_11_13.1.0.1630EX01_2023092800170000.zip",
+					"name": "RMX2202export_11_13.1.0.1630EX01_2023092800170000.zip",
+					"marketmodel": "realme GT",
+					"updatedesc": "",
+					"updatedesc_english": "",
+					"googlepatchdate": "2023/10/4 16:00:00",
+					"operatorarea": "0",
+					"coloros": "",
+					"android": "",
+					"isenterprise": "0"
+				},
+				{
+					"link": "https://rms01.realme.net/sw/RMX2202export_11_13.1.0.1810EX01_2023121818500110.zip",
+					"name": "RMX2202export_11_13.1.0.1810EX01_2023121818500110.zip",
+					"marketmodel": "realme GT",
+					"updatedesc": "",
+					"updatedesc_english": "",
+					"googlepatchdate": "2023/12/4 16:00:00",
+					"operatorarea": "0",
+					"coloros": "",
+					"android": "",
+					"isenterprise": "0"
+				},
+				{
+					"link": "https://rms01.realme.net/sw/RMX2202export_11_13.1.0.1921EX01_2024020419400110.zip",
+					"name": "RMX2202export_11_13.1.0.1921EX01_2024020419400110.zip",
+					"marketmodel": "realme GT",
+					"updatedesc": "",
+					"updatedesc_english": "",
+					"googlepatchdate": "2024/2/4 16:00:00",
+					"operatorarea": "0",
+					"coloros": "",
+					"android": "",
+					"isenterprise": "0"
+				},
+				{
+					"link": "https://rms01.realme.net/sw/RMX2202export_11_C.20_2022072019450129.zip",
+					"name": "RMX2202export_11_C.20_2022072019450129.zip",
+					"marketmodel": "realme GT",
+					"updatedesc": "\n【安全】\n● 更新 Android安全补丁（2022 #7）\n\n【系统】\n● 优化 部分场景下的系统性能，让您的手机运行更稳定",
+					"updatedesc_english": "\n【Security】\n&bull; Integrates the July 2022 Android security patch.\n\n【System】\n&bull; Improves system stability and performance.",
+					"googlepatchdate": "2022/7/4 16:00:00",
+					"operatorarea": "0",
+					"coloros": "",
+					"android": "",
+					"isenterprise": "0"
+				},
+				{
+					"link": "https://rms01.realme.net/sw/RMX2202export_11_C.21_2022091720000133.zip",
+					"name": "RMX2202export_11_C.21_2022091720000133.zip",
+					"marketmodel": "realme GT",
+					"updatedesc": "【安全】\n● 更新  Android安全补丁（2022 #9 ）\n\n【网络】\n&bull; 添加Jio 支持5G 网络功能。\n\n【游戏】\n● 优化 部分场景下，游戏卡顿问题\n\n【时间】\n●修复 部分语言下，时间排布顺序错误的问题\n",
+					"updatedesc_english": "[Security]\n&bull; Integrates the September 2022 Android security patch to enhance system security.\n\n[Network]\n&bull; 5G network function supported for Jio.\n\n[Games]\n&bull; Fixes a lag issue in some scenarios.\n\n[Clock]\n&bull; Fixes a clock display issue in some languages.",
+					"googlepatchdate": "2022/9/4 16:00:00",
+					"operatorarea": "0",
+					"coloros": "",
+					"android": "",
+					"isenterprise": "0"
+				},
+				{
+					"link": "https://rms01.realme.net/sw/RMX2202export_11_C.25_2022102211350137.zip",
+					"name": "RMX2202export_11_C.25_2022102211350137.zip",
+					"marketmodel": "realme GT",
+					"updatedesc": "【安全】\n● 更新 Android安全补丁（ 2022 #10）\n\n【系统】\n● 优化 部分场景下的系统性能，让您的手机运行更稳定",
+					"updatedesc_english": "【Security】\n● Integrates the October 2022 Android security patch to enhance system security.\n\n【System】\n●Optimize the system performance in some scenarios to make your phone run more stably",
+					"googlepatchdate": "2022/10/4 16:00:00",
+					"operatorarea": "0",
+					"coloros": "",
+					"android": "",
+					"isenterprise": "0"
+				},
+				{
+					"link": "https://rms01.realme.net/sw/RMX2202export_11_C.27_2022120710020000.zip",
+					"name": "RMX2202export_11_C.27_2022120710020000.zip",
+					"marketmodel": "realme GT",
+					"updatedesc": "【安全】\n● 更新 Android安全补丁（ 2022 #12）\n\n【系统】\n● 优化 部分场景下的系统性能，让您的手机运行更稳定\n",
+					"updatedesc_english": "【Security】\n● Integrates the December 2022 Android security patch to enhance system security.\n\n【System】\n●Optimize the system performance in some scenarios to make your phone run more stably\n",
+					"googlepatchdate": "2022/12/4 16:00:00",
+					"operatorarea": "0",
+					"coloros": "",
+					"android": "",
+					"isenterprise": "0"
+				},
+				{
+					"link": "https://rms01.realme.net/sw/RMX2202export_11_F.12_2023061218460115.zip",
+					"name": "RMX2202export_11_F.12_2023061218460115.zip",
+					"marketmodel": "realme GT",
+					"updatedesc": "",
+					"updatedesc_english": "",
+					"googlepatchdate": "2023/6/4 16:00:00",
+					"operatorarea": "0",
+					"coloros": "",
+					"android": "",
+					"isenterprise": "0"
+				},
+				{
+					"link": "https://rms01.realme.net/sw/RMX2202export_11_F.13_2023071718210000.zip",
+					"name": "RMX2202export_11_F.13_2023071718210000.zip",
+					"marketmodel": "realme GT",
+					"updatedesc": "",
+					"updatedesc_english": "",
+					"googlepatchdate": "2023/6/4 16:00:00",
+					"operatorarea": "0",
+					"coloros": "",
+					"android": "",
+					"isenterprise": "0"
+				}
+			]
+		}
+	},
+	"ErrorCode": 0,
+	"Message": null
+}
+
+RU
+{
+	"Data": {
+		"response": {
+			"message": "0000",
+			"status": "0",
+			"modellist": [
+				{
+					"link": "https://rms01.realme.net/sw/RMX2202export_11_13.1.0.1921EX01_2024020419400110.zip",
+					"name": "RMX2202export_11_13.1.0.1921EX01_2024020419400110.zip",
+					"marketmodel": "realme GT 5G",
+					"updatedesc": "",
+					"updatedesc_english": "",
+					"googlepatchdate": "2/4/2024 4:00:00 PM",
+					"operatorarea": "0",
+					"coloros": "",
+					"android": "",
+					"isenterprise": "0"
+				},
+				{
+					"link": "https://rms01.realme.net/sw/RMX2202export_11_C.20_2022072019450129.zip",
+					"name": "RMX2202export_11_C.20_2022072019450129.zip",
+					"marketmodel": "realme GT 5G",
+					"updatedesc": "\n【安全】\n● 更新 Android安全补丁（2022 #7）\n\n【系统】\n● 优化 部分场景下的系统性能，让您的手机运行更稳定",
+					"updatedesc_english": "\n【Security】\n&bull; Integrates the July 2022 Android security patch.\n\n【System】\n&bull; Improves system stability and performance.",
+					"googlepatchdate": "7/4/2022 4:00:00 PM",
+					"operatorarea": "0",
+					"coloros": "",
+					"android": "",
+					"isenterprise": "0"
+				},
+				{
+					"link": "https://rms01.realme.net/sw/RMX2202export_11_C.21_2022091720000133.zip",
+					"name": "RMX2202export_11_C.21_2022091720000133.zip",
+					"marketmodel": "realme GT 5G",
+					"updatedesc": "【安全】\n● 更新  Android安全补丁（2022 #9 ）\n\n【网络】\n&bull; 添加Jio 支持5G 网络功能。\n\n【游戏】\n● 优化 部分场景下，游戏卡顿问题\n\n【时间】\n●修复 部分语言下，时间排布顺序错误的问题\n",
+					"updatedesc_english": "[Security]\n&bull; Integrates the September 2022 Android security patch to enhance system security.\n\n[Network]\n&bull; 5G network function supported for Jio.\n\n[Games]\n&bull; Fixes a lag issue in some scenarios.\n\n[Clock]\n&bull; Fixes a clock display issue in some languages.",
+					"googlepatchdate": "9/4/2022 4:00:00 PM",
+					"operatorarea": "0",
+					"coloros": "",
+					"android": "",
+					"isenterprise": "0"
+				},
+				{
+					"link": "https://rms01.realme.net/sw/RMX2202export_11_C.25_2022102211350137.zip",
+					"name": "RMX2202export_11_C.25_2022102211350137.zip",
+					"marketmodel": "realme GT 5G",
+					"updatedesc": "【安全】\n● 更新 Android安全补丁（ 2022 #10）\n\n【系统】\n● 优化 部分场景下的系统性能，让您的手机运行更稳定",
+					"updatedesc_english": "【Security】\n● Integrates the October 2022 Android security patch to enhance system security.\n\n【System】\n●Optimize the system performance in some scenarios to make your phone run more stably",
+					"googlepatchdate": "10/4/2022 4:00:00 PM",
+					"operatorarea": "0",
+					"coloros": "",
+					"android": "",
+					"isenterprise": "0"
+				},
+				{
+					"link": "https://rms01.realme.net/sw/RMX2202export_11_C.27_2022120710020000.zip",
+					"name": "RMX2202export_11_C.27_2022120710020000.zip",
+					"marketmodel": "realme GT 5G",
+					"updatedesc": "【安全】\n● 更新 Android安全补丁（ 2022 #12）\n\n【系统】\n● 优化 部分场景下的系统性能，让您的手机运行更稳定\n",
+					"updatedesc_english": "【Security】\n● Integrates the December 2022 Android security patch to enhance system security.\n\n【System】\n●Optimize the system performance in some scenarios to make your phone run more stably\n",
+					"googlepatchdate": "12/4/2022 4:00:00 PM",
+					"operatorarea": "0",
+					"coloros": "",
+					"android": "",
+					"isenterprise": "0"
+				},
+				{
+					"link": "https://rms01.realme.net/sw/RMX2202GDPR_11_C.25_2022102616250156.zip",
+					"name": "RMX2202GDPR_11_C.25_2022102616250156.zip",
+					"marketmodel": "realme GT 5G",
+					"updatedesc": "【安全】\n● 更新 Android安全补丁（ 2022 #10）\n\n【系统】\n● 优化 部分场景下的系统性能，让您的手机运行更稳定",
+					"updatedesc_english": "【Security】\n● Integrates the October 2022 Android security patch to enhance system security.\n\n【System】\n●Optimize the system performance in some scenarios to make your phone run more stably",
+					"googlepatchdate": "10/4/2022 4:00:00 PM",
+					"operatorarea": "0",
+					"coloros": "",
+					"android": "",
+					"isenterprise": "0"
+				}
+			]
+		}
+	},
+	"ErrorCode": 0,
+	"Message": null
+}
