@@ -1,0 +1,180 @@
+{
+	"Data": {
+		"response": {
+			"message": "0000",
+			"status": "0",
+			"modellist": [
+				{
+					"link": "https://rms11.realme.net/sw/RMX2202domestic_11_13.1.0.1410CN01_2023080312100117.zip",
+					"name": "RMX2202domestic_11_13.1.0.1410CN01_2023080312100117.zip",
+					"marketmodel": "真我GT",
+					"updatedesc": "",
+					"updatedesc_english": "",
+					"googlepatchdate": "2023/8/4 16:00:00",
+					"operatorarea": "0",
+					"coloros": "",
+					"android": "",
+					"isenterprise": "0"
+				},
+				{
+					"link": "https://rms11.realme.net/sw/RMX2202domestic_11_13.1.0.1413CN01_2023092121560128.zip",
+					"name": "RMX2202domestic_11_13.1.0.1413CN01_2023092121560128.zip",
+					"marketmodel": "真我GT",
+					"updatedesc": "",
+					"updatedesc_english": "",
+					"googlepatchdate": "2023/8/4 16:00:00",
+					"operatorarea": "0",
+					"coloros": "",
+					"android": "",
+					"isenterprise": "0"
+				},
+				{
+					"link": "https://rms11.realme.net/sw/RMX2202domestic_11_13.1.0.1630CN01_2023092815460125.zip",
+					"name": "RMX2202domestic_11_13.1.0.1630CN01_2023092815460125.zip",
+					"marketmodel": "真我GT",
+					"updatedesc": "",
+					"updatedesc_english": "",
+					"googlepatchdate": "2023/10/4 16:00:00",
+					"operatorarea": "0",
+					"coloros": "",
+					"android": "",
+					"isenterprise": "0"
+				},
+				{
+					"link": "https://rms11.realme.net/sw/RMX2202domestic_11_13.1.0.1810CN01_2023122115320000.zip",
+					"name": "RMX2202domestic_11_13.1.0.1810CN01_2023122115320000.zip",
+					"marketmodel": "真我GT",
+					"updatedesc": "",
+					"updatedesc_english": "",
+					"googlepatchdate": "2023/12/4 16:00:00",
+					"operatorarea": "0",
+					"coloros": "",
+					"android": "",
+					"isenterprise": "0"
+				},
+				{
+					"link": "https://rms11.realme.net/sw/RMX2202domestic_11_13.1.0.1921CN01_2024020419440000.zip",
+					"name": "RMX2202domestic_11_13.1.0.1921CN01_2024020419440000.zip",
+					"marketmodel": "真我GT",
+					"updatedesc": "",
+					"updatedesc_english": "",
+					"googlepatchdate": "2024/2/4 16:00:00",
+					"operatorarea": "0",
+					"coloros": "",
+					"android": "",
+					"isenterprise": "0"
+				},
+				{
+					"link": "https://rms11.realme.net/sw/RMX2202domestic_11_C.20_2022072019310139.zip",
+					"name": "RMX2202domestic_11_C.20_2022072019310139.zip",
+					"marketmodel": "真我GT",
+					"updatedesc": "【网络】\n● 新增   中国广电5G网络支持\n\n【设置】\n● 修复   部分场景下震感弱问题\n\n【安全】\n● 更新  Android安全补丁（2022 #7 ）\n",
+					"updatedesc_english": "【网络】\n● 新增   中国广电5G网络支持\n\n【设置】\n● 修复   部分场景下震感弱问题\n\n【安全】\n● 更新  Android安全补丁（2022 #7 ）\n",
+					"googlepatchdate": "2022/7/4 16:00:00",
+					"operatorarea": "0",
+					"coloros": "",
+					"android": "",
+					"isenterprise": "0"
+				},
+				{
+					"link": "https://rms11.realme.net/sw/RMX2202domestic_11_C.23_2022072019310139.zip",
+					"name": "RMX2202domestic_11_C.23_2022072019310139.zip",
+					"marketmodel": "真我GT",
+					"updatedesc": "【网络】\n● 新增   中国广电5G网络支持\n\n【设置】\n● 修复   部分场景下震感弱问题\n\n【安全】\n● 更新  Android安全补丁（2022 #7 ）\n",
+					"updatedesc_english": "【网络】\n● 新增   中国广电5G网络支持\n\n【设置】\n● 修复   部分场景下震感弱问题\n\n【安全】\n● 更新  Android安全补丁（2022 #7 ）\n",
+					"googlepatchdate": "2022/7/4 16:00:00",
+					"operatorarea": "0",
+					"coloros": "",
+					"android": "",
+					"isenterprise": "0"
+				},
+				{
+					"link": "https://rms11.realme.net/sw/RMX2202domestic_11_C.24_2022092717070161.zip",
+					"name": "RMX2202domestic_11_C.24_2022092717070161.zip",
+					"marketmodel": "真我GT",
+					"updatedesc": "【游戏】\n● 优化 部分场景下，游戏卡顿问题\n\n【时间】\n●修复 部分语言下，时间排布顺序错误的问题\n\n【安全】\n● 更新  Android安全补丁（2022 #9 ）",
+					"updatedesc_english": "[Games]\n&bull; Fixes a lag issue in some scenarios.\n\n[Clock]\n&bull; Fixes a clock display issue in some languages.\n\n[Security]\n&bull; Integrates the September 2022 Android security patch to enhance system security.",
+					"googlepatchdate": "2022/9/4 16:00:00",
+					"operatorarea": "0",
+					"coloros": "",
+					"android": "",
+					"isenterprise": "0"
+				},
+				{
+					"link": "https://rms11.realme.net/sw/RMX2202domestic_11_C.25_2022101917170156.zip",
+					"name": "RMX2202domestic_11_C.25_2022101917170156.zip",
+					"marketmodel": "真我GT",
+					"updatedesc": "【充电】\n● 修复 充电断续问题\n\n【电池】\n●修复 电池界面耗电曲线低概率成直线问题\n\n【安全】\n● 更新  Android安全补丁（2022 #10 ）",
+					"updatedesc_english": "【Charge】\n● Repair intermittent charging problem\n\n【Battery】\n●Fix the problem that the power consumption curve of the battery interface has a low probability of being a straight line\n\n【Safety】\n● Update Android security patch (2022 #10)",
+					"googlepatchdate": "2022/10/4 16:00:00",
+					"operatorarea": "0",
+					"coloros": "",
+					"android": "",
+					"isenterprise": "0"
+				},
+				{
+					"link": "https://rms11.realme.net/sw/RMX2202domestic_11_C.27_2022120701280168.zip",
+					"name": "RMX2202domestic_11_C.27_2022120701280168.zip",
+					"marketmodel": "真我GT",
+					"updatedesc": "【网络】\n● 修复 特殊环境下，副卡低概率无信号问题\n\n【WIFI】\n● 修复 低概率无法搜到WiFi问题\n\n【识屏】\n● 修复 无法关闭小布识屏问题\n\n【安全】\n● 更新  Android安全补丁（2022 #12 ）",
+					"updatedesc_english": "【network】\n● Fix the problem that the secondary card has a low probability of no signal under special circumstances\n\n【WIFI】\n● Fix the low probability that WiFi cannot be found\n\n【Screen recognition】\n● Fix the problem that Xiaobu&rsquo;s recognition screen cannot be closed\n\n【Safety】\n● Update Android security patch (2022 #12)",
+					"googlepatchdate": "2022/12/4 16:00:00",
+					"operatorarea": "0",
+					"coloros": "",
+					"android": "",
+					"isenterprise": "0"
+				},
+				{
+					"link": "https://rms11.realme.net/sw/RMX2202domestic_11_C.28_2023011713470117.zip",
+					"name": "RMX2202domestic_11_C.28_2023011713470117.zip",
+					"marketmodel": "真我GT",
+					"updatedesc": "【系统】\n● 优化 部分场景下的系统性能，让您的手机运行更稳定\n\n【安全】\n● 更新 Android安全补丁（2022 #12）\n",
+					"updatedesc_english": "【System】\n●Optimize the system performance in some scenarios to make your phone run more stably\n\n【Safety】\n● Update Android security patch (2022 #12)\n",
+					"googlepatchdate": "2022/12/4 16:00:00",
+					"operatorarea": "0",
+					"coloros": "",
+					"android": "",
+					"isenterprise": "0"
+				},
+				{
+					"link": "https://rms11.realme.net/sw/RMX2202domestic_11_F.11_2023042417300000.zip",
+					"name": "RMX2202domestic_11_F.11_2023042417300000.zip",
+					"marketmodel": "真我GT",
+					"updatedesc": "",
+					"updatedesc_english": "",
+					"googlepatchdate": "2023/4/4 16:00:00",
+					"operatorarea": "0",
+					"coloros": "",
+					"android": "",
+					"isenterprise": "0"
+				},
+				{
+					"link": "https://rms11.realme.net/sw/RMX2202domestic_11_F.12_2023061220460118.zip",
+					"name": "RMX2202domestic_11_F.12_2023061220460118.zip",
+					"marketmodel": "真我GT",
+					"updatedesc": "",
+					"updatedesc_english": "",
+					"googlepatchdate": "2023/6/4 16:00:00",
+					"operatorarea": "0",
+					"coloros": "",
+					"android": "",
+					"isenterprise": "0"
+				},
+				{
+					"link": "https://rms11.realme.net/sw/RMX2202domestic_11_F.13_2023071718140112.zip",
+					"name": "RMX2202domestic_11_F.13_2023071718140112.zip",
+					"marketmodel": "真我GT",
+					"updatedesc": "",
+					"updatedesc_english": "",
+					"googlepatchdate": "2023/6/4 16:00:00",
+					"operatorarea": "0",
+					"coloros": "",
+					"android": "",
+					"isenterprise": "0"
+				}
+			]
+		}
+	},
+	"ErrorCode": 0,
+	"Message": null
+}
